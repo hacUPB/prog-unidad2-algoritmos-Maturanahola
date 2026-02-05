@@ -13,18 +13,19 @@
 
  ## ¿Cuántos bits hay en 5 KB?
 
-- RELACIÓN ENTRE UNIDADES
+## 1) RELACIÓN ENTRE UNIDADES
 
 1 byte = 8 bits
 
 1 KB (kilobyte) = 1024 bytes
 
-- CALCULAR BYTES EN 5KB
+## 2) CALCULAR BYTES EN 5KB
 
 5𝐾𝐵 = 5×1024 𝑏𝑦𝑡𝑒𝑠 = 5120 𝑏𝑦𝑡𝑒𝑠
 
-- CONVERTIR **BYTES** A **BITS**
+## 3) CONVERTIR **BYTES** A **BITS**
 
 5120 𝑏𝑦𝑡𝑒𝑠×8 𝑏𝑖𝑡𝑠/𝑏𝑦𝑡𝑒 = 40960 𝑏𝑖𝑡𝑠
+## 4) RESULTADO
 
 Entonces en **5 KB hay 40,960 bits.**
