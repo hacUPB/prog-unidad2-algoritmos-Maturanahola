@@ -11,16 +11,16 @@
 
 INICIO
 
-Mostrar : Ingrese cantidad de lapices a comprar
+    Mostrar : Ingrese cantidad de lapices a comprar
 
-leer: cantidad
+    leer: cantidad
 
-**Si** cantidad ≥ 1000
+        SI cantidad ≥ 1000
 
-    Cantidad*$85
+            Cantidad*$85
 
-**Sino** 
+        SINO
 
-    CANTIDAD*$90
+            CANTIDAD*$90
 
-mostrar: precio_total
+            mostrar: precio_total
